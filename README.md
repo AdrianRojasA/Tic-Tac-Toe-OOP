@@ -19,5 +19,3 @@ A functional two person tic tac toe game built with OOJS. I used ES2015 class sy
 * New game button triggers ```new Game()``` and clears the board
 * Player wins are stored per session
 * Tic tac toe up to 10 rows allowed
-## Author
-Frank Rosendorf
